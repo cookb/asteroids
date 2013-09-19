@@ -2,7 +2,7 @@
 	var Asteroids = root.Asteroids = (root.Asteroids || {});
 
 	var Bullet = Asteroids.Bullet = function(x, y, vx, vy, rotation) {
-		this.radius = 3;
+		this.radius = 5;
 		this.speed = 12;
 		this.lifetime = 80;
 		this.rotation = rotation;
