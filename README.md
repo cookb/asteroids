@@ -1,15 +1,16 @@
-==Asteroids
+Asteroids
+=========
 
 The 70's Atari classic returns in this Javascript version, animated using HTML5 Canvas. 
 
-Instructions:
+INSTRUCTIONS
 
-Up arrow: Thrust
-Down arrow: Flip ship 180º
-Left arrow: Rotate left
-Right arrow: Rotate right
-Space: Fire
-Return: Warp (requires charging)
+Up arrow: Thrust<br>
+Down arrow: Flip ship 180º<br>
+Left arrow: Rotate left<br>
+Right arrow: Rotate right<br>
+Space: Fire<br>
+Return: Warp (requires charging)<br>
 'g': spawn another asteroid
 
 Ship is invulnerable for 2 seconds when you die<br>
